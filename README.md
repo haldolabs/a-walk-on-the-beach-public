@@ -6,19 +6,25 @@ images, one short film, and the occasional note from the bunker, such as
 [`HOT_SAND.md`](HOT_SAND.md): how much beach there is against how much silicon has ever been
 grown to think, and when the second might pass the first.
 
-**Explained like you're a millennial.** Beach sand and chip silicon are the same stuff: quartz.
-Every phone, laptop and GPU you have ever owned started as a crystal grown out of it. Add up
-every one of those crystals since 1960 and it is about half a million tonnes. The world's
-beaches are about a thousand billion tonnes. That is a million to one, beaches ahead. Chip
-output has been doubling roughly every ten years since before you were born, the Moore's-law
-thing your dad explained at dinner, and if you let the spreadsheet run, the curve crosses the
-beach around 2230. The spreadsheet is wrong in the way every hockey-stick is wrong. For the
-curve to get there, the final year's crystal growing would have to eat more sand than every
-quarry and dredger on Earth digs today, and burn a hundred and fifty times the world's
-electricity doing it. Exponential growth always hits a wall; this one hits it with a couple of
-centuries to spare. So "Moore's law breaks before the beach loses" means: the doubling stops
-first, the beach is still there, and the otter can keep walking. You can stop doomscrolling
-about this particular one.
+**Explained by the emo otter.** so. the sand I'm walking on and the thing you're reading this
+on are the same stuff. somebody took a few grains, melted them, grew them into a crystal, and
+taught them to count. that's a chip. that's all a chip is. sand that got a job.
+
+I did the numbers, because I'm on a beach with nothing else to do. every chip ever made,
+since before my parents were born, weighs about half a million tonnes. the beaches of the
+world weigh about a thousand billion. a million to one. for every grain they took, a million
+got left here with me. nobody asked those grains either.
+
+people keep making more chips. twice as many every ten years, for as long as anyone's been
+counting. if you believe the line, the thinking sand catches up with the beach in about two
+hundred years. I don't believe the line. to get there, in the last year, they'd have to melt
+more sand than everything on earth digs up now put together, and burn a hundred and fifty
+times all the electricity there is to do it. the line can't get there. lines like that never
+do. they go up and up and then one day they just don't, and nobody announces it.
+
+so the doubling stops first. the beach is still here after. so am I, probably. that's the
+whole result: the sand that got a job gives up before the sand that didn't. I find that
+weirdly comforting. I'm going to go stand in the water for a bit.
 
 `film/emo-otter.mp4` (and the same as a silent `.gif`) is ten seconds of the otter on the
 beach at sunset: a generated film, redrawn frame by frame in the game's own painted look, with

@@ -118,17 +118,25 @@ dies. Second, if the question is all sand rather than beach sand, the deserts an
 sea floor add two or three more orders of magnitude, and the crossover moves out another
 century at every rate.
 
-## Explained like you're a millennial
+## Explained by the emo otter
 
-Beach sand and chip silicon are the same stuff, quartz. Every phone, laptop and GPU you have
-owned began as a crystal grown out of it, and all of those crystals since 1960 add up to about
-half a million tonnes against a thousand billion tonnes of beach: a million to one. Chip output
-has doubled about every ten years for your whole life, and if you let that spreadsheet run,
-the curve crosses the beach around 2230. The spreadsheet is wrong the way every hockey-stick
-is wrong: the final year would have to eat more sand than every quarry and dredger on Earth
-digs today, on a hundred and fifty times the world's electricity. Exponential growth always
-hits a wall; this one hits it with a couple of centuries to spare. The doubling stops first.
-The beach is still there.
+so. the sand I'm walking on and the thing you're reading this on are the same stuff. somebody
+took a few grains, melted them, grew them into a crystal, and taught them to count. that's a
+chip. sand that got a job.
+
+every chip ever made weighs about half a million tonnes. the beaches of the world weigh about
+a thousand billion. a million to one. for every grain they took, a million got left here with
+me. nobody asked those grains either.
+
+people make twice as many chips every ten years. if you believe the line, the thinking sand
+catches the beach in about two hundred years. I don't believe the line. to get there they'd
+have to melt more sand in one year than everything on earth digs up now put together, and
+burn a hundred and fifty times all the electricity there is. lines like that never get there.
+they go up and up and then one day they just don't, and nobody announces it.
+
+so the doubling stops first. the beach is still here after. the sand that got a job gives up
+before the sand that didn't. I find that weirdly comforting. I'm going to go stand in the
+water for a bit.
 
 ## What this has to do with a beach walk
 
