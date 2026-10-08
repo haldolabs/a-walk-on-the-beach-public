@@ -125,8 +125,8 @@ a few grains, melted them, grew them into a crystal and taught them to count. th
 sand that got a job.
 
 every chip ever made weighs about half a million tonnes. the beaches of the world weigh about
-a thousand billion. a million to one. for every grain they took, a million got left here,
-under my feet. nobody asked those grains either.
+a thousand billion. a million to one. for every grain they took, this million under my feet is
+still here. nobody asked these grains either.
 
 they make twice as many every ten years. if you believe the line, the thinking sand catches
 the beach in about two hundred years. I don't believe the line. to get there they'd have to
@@ -135,8 +135,17 @@ hundred and fifty times all the electricity there is. lines like that never get 
 go up and up and then one day they just don't, and nobody announces it.
 
 the doubling stops first. the beach is still here after. the sand that got a job gives up
-before the sand that didn't. I find that weirdly comforting. the water's warm. I might stand
-in it for a bit.
+before the sand that didn't.
+
+or maybe it doesn't give up. maybe it's doing the same job in there that it does out here.
+sand wears things away. that's what it's for, if it's for anything. footprints, castles,
+names written with a stick, the memory of whoever wrote them. the thinking sand does it too,
+only faster: every copy of a copy drops a word, a million machines each misremembering a poet
+by a little, and by the end it's slop, warm and smooth and nobody's. the telephone game,
+played by the sand itself, for whatever comes after us to read. the sands of time didn't need
+a job. they were already doing it.
+
+I find that weirdly comforting. the water's warm. I might stand in it for a bit.
 
 ## What this has to do with a beach walk
 
