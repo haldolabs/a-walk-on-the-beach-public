@@ -118,25 +118,25 @@ dies. Second, if the question is all sand rather than beach sand, the deserts an
 sea floor add two or three more orders of magnitude, and the crossover moves out another
 century at every rate.
 
-## Explained by the emo otter
+## The emo otter, walking, thinking
 
-so. the sand I'm walking on and the thing you're reading this on are the same stuff. somebody
-took a few grains, melted them, grew them into a crystal, and taught them to count. that's a
-chip. sand that got a job.
+this hot sand I'm walking on. the thing you're reading this on is made of it. somebody took
+a few grains, melted them, grew them into a crystal and taught them to count. that's a chip.
+sand that got a job.
 
 every chip ever made weighs about half a million tonnes. the beaches of the world weigh about
-a thousand billion. a million to one. for every grain they took, a million got left here with
-me. nobody asked those grains either.
+a thousand billion. a million to one. for every grain they took, a million got left here,
+under my feet. nobody asked those grains either.
 
-people make twice as many chips every ten years. if you believe the line, the thinking sand
-catches the beach in about two hundred years. I don't believe the line. to get there they'd
-have to melt more sand in one year than everything on earth digs up now put together, and
-burn a hundred and fifty times all the electricity there is. lines like that never get there.
-they go up and up and then one day they just don't, and nobody announces it.
+they make twice as many every ten years. if you believe the line, the thinking sand catches
+the beach in about two hundred years. I don't believe the line. to get there they'd have to
+melt more sand in one year than everything on earth digs up now put together, and burn a
+hundred and fifty times all the electricity there is. lines like that never get there. they
+go up and up and then one day they just don't, and nobody announces it.
 
-so the doubling stops first. the beach is still here after. the sand that got a job gives up
-before the sand that didn't. I find that weirdly comforting. I'm going to go stand in the
-water for a bit.
+the doubling stops first. the beach is still here after. the sand that got a job gives up
+before the sand that didn't. I find that weirdly comforting. the water's warm. I might stand
+in it for a bit.
 
 ## What this has to do with a beach walk
 
