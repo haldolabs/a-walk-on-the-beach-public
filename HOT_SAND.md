@@ -118,15 +118,17 @@ dies. Second, if the question is all sand rather than beach sand, the deserts an
 sea floor add two or three more orders of magnitude, and the crossover moves out another
 century at every rate.
 
-## Explained like you're five
+## Explained like you're a millennial
 
-Beaches are made of sand. Chips are made of sand too, melted and grown into big shiny
-crystals. For every grain that became a chip, about a million grains are still on a beach.
-People make about twice as many chips every ten years. Draw that line out and it says the
-chip-sand catches the beach-sand in about two hundred years. But the line is lying: in that
-last year they would have to melt more sand than every digger and truck on Earth moves today,
-with a hundred times the world's electricity. Nobody can. So the doubling rule gives up first,
-and the beach stays bigger.
+Beach sand and chip silicon are the same stuff, quartz. Every phone, laptop and GPU you have
+owned began as a crystal grown out of it, and all of those crystals since 1960 add up to about
+half a million tonnes against a thousand billion tonnes of beach: a million to one. Chip output
+has doubled about every ten years for your whole life, and if you let that spreadsheet run,
+the curve crosses the beach around 2230. The spreadsheet is wrong the way every hockey-stick
+is wrong: the final year would have to eat more sand than every quarry and dredger on Earth
+digs today, on a hundred and fifty times the world's electricity. Exponential growth always
+hits a wall; this one hits it with a couple of centuries to spare. The doubling stops first.
+The beach is still there.
 
 ## What this has to do with a beach walk
 
