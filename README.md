@@ -6,6 +6,18 @@ images, one short film, and the occasional note from the bunker, such as
 [`HOT_SAND.md`](HOT_SAND.md): how much beach there is against how much silicon has ever been
 grown to think, and when the second might pass the first.
 
+**Explained like you're five.** Beaches are made of sand. Computer chips are made of sand
+too, melted and grown into big shiny crystals. Right now, for every one grain that got turned
+into a chip, there are about a million grains still lying on beaches. The chip people make
+more chips every year, about twice as many every ten years. If you draw that line out, it
+says that in about two hundred years there would be as much chip-sand as beach-sand. But the
+line is lying. To get there, in the last year the chip people would have to melt more sand
+than every digger, every truck and every cement mixer on Earth moves today, all of it into
+perfect crystals, using more electricity than the whole world has, times a hundred. Nobody
+can do that. So the line has to bend down long before it reaches the beach. That is what
+"Moore's law breaks before the beach loses" means: the rule that chips keep doubling gives up
+first. The beach stays bigger. The otter can keep walking.
+
 `film/emo-otter.mp4` (and the same as a silent `.gif`) is ten seconds of the otter on the
 beach at sunset: a generated film, redrawn frame by frame in the game's own painted look, with
 the game's synthesised surf as its sound.

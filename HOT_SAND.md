@@ -118,6 +118,16 @@ dies. Second, if the question is all sand rather than beach sand, the deserts an
 sea floor add two or three more orders of magnitude, and the crossover moves out another
 century at every rate.
 
+## Explained like you're five
+
+Beaches are made of sand. Chips are made of sand too, melted and grown into big shiny
+crystals. For every grain that became a chip, about a million grains are still on a beach.
+People make about twice as many chips every ten years. Draw that line out and it says the
+chip-sand catches the beach-sand in about two hundred years. But the line is lying: in that
+last year they would have to melt more sand than every digger and truck on Earth moves today,
+with a hundred times the world's electricity. Nobody can. So the doubling rule gives up first,
+and the beach stays bigger.
+
 ## What this has to do with a beach walk
 
 Nothing, and everything. The game is a beach made of numbers, drawn by sand that was taught
