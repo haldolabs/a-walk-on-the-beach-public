@@ -29,6 +29,10 @@ a job. they were already doing it.
 
 I find that weirdly comforting. the water's warm. I might stand in it for a bit.
 
+standing here, I can see what churns this sand. it's grit, worked over by the crashing waves
+and by the tide, pulled in and out by our loving satellite. so when sand becomes a thinking
+machine, what's the churning force in there? who is the wave crashing?
+
 `film/emo-otter.mp4` (and the same as a silent `.gif`) is ten seconds of the otter on the
 beach at sunset: a generated film, redrawn frame by frame in the game's own painted look, with
 the game's synthesised surf as its sound.
